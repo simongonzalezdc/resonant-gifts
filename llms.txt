@@ -1,0 +1,40 @@
+# Resonant gifts — the line
+
+> An honest index of the Resonant gift line for humans and AI crawlers: 17 community gifts by Kyanite Labs for the ResonantOS ecosystem — measurement instruments, doc gifts, and local-service add-ons for local AI. One plain line per gift, each linking its canonical source. Canonical sources always win. The index also defines the ecosystem's terms plainly (contextual authority, contribution economy, the 22, $RES, $RCT), attributed to their canonical sources.
+
+## Canonical links
+
+- This repo (the index): https://github.com/simongonzalezdc/resonant-gifts
+- ResonantOS (the ecosystem the gifts extend): https://github.com/ResonantOS/2.0.0-alpha
+- ResonantDAO whitepaper (source of contextual authority, the 22, $RES, $RCT): https://resonantdao.com/whitepaper
+- Contribution Economy specification: https://resonantdao.com/contribution-economy/
+
+## The gifts
+
+- resonant-authority — the whitepaper's contextual-authority mechanism as a self-contained POSIX add-on: https://github.com/simongonzalezdc/resonant-authority (canonical source: https://resonantdao.com/whitepaper)
+- resonant-stack-bench — honest local llama-server benchmark (prefill/decode tok/s, ambient A/B) as a ResonantOS add-on: https://github.com/simongonzalezdc/resonant-stack-bench (canonical upstream: https://github.com/KyaniteLabs/stack-bench)
+- resonant-delegation-bench — pre-registered "safe to hand off my work" benchmark for local models, as a ResonantOS add-on: https://github.com/simongonzalezdc/resonant-delegation-bench (canonical upstream: https://github.com/KyaniteLabs/delegation-bench)
+- resonant-kiln — measured overnight economics of local-model batch work, every number script-backed: https://github.com/simongonzalezdc/resonant-kiln (no external upstream; companions: resonant-stack-bench, resonant-delegation-bench)
+- resonant-context-notes — measured context-engineering notes for local-model agent builders, validity labels intact: https://github.com/simongonzalezdc/resonant-context-notes (canonical upstream: https://github.com/KyaniteLabs/context-kit)
+- resonant-unstuck-coach — deterministic coach router over the Unstuck Coach method; a routing layer, not an LLM: https://github.com/simongonzalezdc/resonant-unstuck-coach (canonical method: https://github.com/simongonzalezdc/unstuck-coach)
+- resonant-checkyourself — production-readiness check for AI-built apps, read-only, as a ResonantOS add-on: https://github.com/simongonzalezdc/resonant-checkyourself (canonical upstream: https://github.com/KyaniteLabs/checkyourself)
+- resonant-tastecheck — the TasteCheck design-quality skill pack served to agents over a local service; nothing faked: https://github.com/simongonzalezdc/resonant-tastecheck (canonical upstream: https://github.com/KyaniteLabs/tastecheck)
+- resonant-epoch — Epoch's read-only estimation tools (PERT, COCOMO, Monte Carlo, business days) as a ResonantOS add-on: https://github.com/simongonzalezdc/resonant-epoch (canonical upstream: https://github.com/KyaniteLabs/Epoch)
+- resonant-innerscape — Innerscape's agent surface as a local-only add-on with zero capabilities; no personal data reachable: https://github.com/simongonzalezdc/resonant-innerscape (canonical upstream: https://github.com/KyaniteLabs/Innerscape)
+- resonant-repo-archaeologist — git-history ground truth + Phase 0-1 excavation of the Dev Learning Archaeologist methodology: https://github.com/simongonzalezdc/resonant-repo-archaeologist (canonical upstream: https://github.com/KyaniteLabs/dev-learning-archaeologist)
+- resonant-evidence-fixtures — kinocut record-contract patterns as ResonantOS contribution fixtures, all effects none: https://github.com/simongonzalezdc/resonant-evidence-fixtures (canonical sources: https://github.com/KyaniteLabs/kinocut, https://github.com/ResonantOS/2.0.0-alpha)
+- resonant-a2a-bridge — the ResonantOS opencode delegation as an A2A 0.2.5 server on loopback, serve-only: https://github.com/simongonzalezdc/resonant-a2a-bridge (canonical ecosystem: https://github.com/ResonantOS/2.0.0-alpha)
+- resonant-grocery-flywheel — local-first, human-approves-everything groceries as a ResonantOS add-on: https://github.com/simongonzalezdc/resonant-grocery-flywheel (canonical upstream: https://github.com/simongonzalezdc/grocery-flywheel)
+- resonant-evo-x2-ec-notes — a mini-PC's embedded controller from Linux: EC register map and re-assertion patterns: https://github.com/simongonzalezdc/resonant-evo-x2-ec-notes (canonical upstream: https://github.com/KyaniteLabs/evo-x2-ec)
+- resonant-local-27b-story — running a 27B on a mini-PC: the complete measured story: https://github.com/simongonzalezdc/resonant-local-27b-story (canonical sources: https://kyanitelabs.tech/blog, https://github.com/KyaniteLabs/qwen38-27b-strix-halo)
+- resonant-mtp-recipe — multi-token prediction on a mini-PC: the measured +33-39% decode recipe: https://github.com/simongonzalezdc/resonant-mtp-recipe (canonical upstream: https://github.com/sudoingX/qwen38-mtp)
+
+## Key facts
+
+- License: MIT (Kyanite Labs).
+- All links in this file and in the README verified live 2026-09-01.
+- The lexicon definitions are plain-English restatements attributed to the ResonantDAO whitepaper and its Contribution Economy specification; the sources win on any disagreement.
+
+## Relationship
+
+Community index by Kyanite Labs for ResonantOS — this is a catalog-adjacent meta-surface, not official and not canonical: it indexes the gift line and links every canonical source, which always wins. Not affiliated with or endorsed by ResonantOS or ResonantDAO.
