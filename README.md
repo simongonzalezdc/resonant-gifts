@@ -39,8 +39,8 @@ sources win on any disagreement.
 - **Contextual authority** — weight follows verified outcomes in the exact
   dimensions a question declares salient, never a blanket score, never
   capital, never activity. The whitepaper states the mechanism: "Each
-  governance question declares its salient dimensions, and voting weight
-  follows verified balances."
+  governance question declares its salient dimensions, and weight
+  follows the member's verified balances in exactly those dimensions."
   `Source: ResonantDAO whitepaper, https://resonantdao.com/whitepaper`
 - **Contribution economy** — the ecosystem's own phrase for what it is
   building: "a community-owned contribution economy built around ResonantOS"
