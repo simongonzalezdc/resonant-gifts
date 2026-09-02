@@ -2,7 +2,7 @@
 
 Index · The gifts · Lexicon · What this index is not
 
-An honest index of the Resonant gift line: **18 community gifts by Kyanite
+An honest index of the Resonant gift line: **19 community gifts by Kyanite
 Labs for the ResonantOS ecosystem** — measurement instruments, doc gifts, and
 local-service add-ons. One plain line per gift. Canonical sources are linked
 and always win.
@@ -24,6 +24,7 @@ and always win.
 | [resonant-innerscape](https://github.com/simongonzalezdc/resonant-innerscape) | Innerscape's agent surface (project brief, module map, bounded planning prompts) as a local-only add-on with zero capabilities: no personal data is reachable, structurally. | [KyaniteLabs/Innerscape](https://github.com/KyaniteLabs/Innerscape) |
 | [resonant-repo-archaeologist](https://github.com/simongonzalezdc/resonant-repo-archaeologist) | Deterministic git-history ground truth plus Phase 0-1 excavation of the Dev Learning Archaeologist methodology, as a read-only ResonantOS add-on. | [simongonzalezdc/dev-learning-archaeologist](https://github.com/simongonzalezdc/dev-learning-archaeologist) |
 | [resonant-evidence-fixtures](https://github.com/simongonzalezdc/resonant-evidence-fixtures) | kinocut's record-contract patterns as contribution fixtures: the ResonantOS economy's own fixtures pass with every effect field held at none. A fixture run receipt, not economy validation. | [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) · [ResonantOS/resonantos-economy-research — the fixture package](https://github.com/ResonantOS/resonantos-economy-research) |
+| [resonant-constable](https://github.com/simongonzalezdc/resonant-constable) | Injection defense + contest — the injection-by-construction doctrine for the browser-first architecture, a labeled corpus of known public attack classes on synthetic fixtures, and a stdlib-only reference checker (CLI + local service 4902). Two independent adversary passes on record. | [PR 333 fix class](https://github.com/ResonantOS/2.0.0-alpha/pull/333) · [KyaniteLabs/kinocut](https://github.com/KyaniteLabs/kinocut) (pattern lineage) |
 | [resonant-a2a-bridge](https://github.com/simongonzalezdc/resonant-a2a-bridge) | The ResonantOS opencode delegation exposed as an A2A 0.2.5 server on loopback — serve-only, operator-provided tokens. | [ResonantOS/2.0.0-alpha](https://github.com/ResonantOS/2.0.0-alpha) |
 | [resonant-grocery-flywheel](https://github.com/simongonzalezdc/resonant-grocery-flywheel) | Local-first, human-approves-everything groceries as a ResonantOS add-on: runway analysis, fail-closed dietary checks, a next-cart draft that structurally cannot check out. | [simongonzalezdc/grocery-flywheel](https://github.com/simongonzalezdc/grocery-flywheel) |
 | [resonant-evo-x2-ec-notes](https://github.com/simongonzalezdc/resonant-evo-x2-ec-notes) | Talking to a mini-PC's embedded controller from Linux: the EC register map, register validation without vendor docs, and the re-assertion patterns that hold fan and power-mode settings. | [KyaniteLabs/evo-x2-ec](https://github.com/KyaniteLabs/evo-x2-ec) |
