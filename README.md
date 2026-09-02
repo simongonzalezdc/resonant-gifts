@@ -2,7 +2,7 @@
 
 Index · The gifts · Lexicon · What this index is not
 
-An honest index of the Resonant gift line: **17 community gifts by Kyanite
+An honest index of the Resonant gift line: **18 community gifts by Kyanite
 Labs for the ResonantOS ecosystem** — measurement instruments, doc gifts, and
 local-service add-ons. One plain line per gift. Canonical sources are linked
 and always win.
@@ -16,6 +16,7 @@ and always win.
 | [resonant-delegation-bench](https://github.com/simongonzalezdc/resonant-delegation-bench) | The pre-registered "safe to hand off my work" benchmark for local models — certified confidence floors, blinded dual-judge, sabotage safety cell — as a ResonantOS add-on. | [KyaniteLabs/delegation-bench](https://github.com/KyaniteLabs/delegation-bench) |
 | [resonant-kiln](https://github.com/simongonzalezdc/resonant-kiln) | Measured overnight economics of local-model batch work: machine minutes, cents of electricity, and the human presence that is the real cost line. Every number script-backed. | [this repo](https://github.com/simongonzalezdc/resonant-kiln) (companions: [stack-bench](https://github.com/simongonzalezdc/resonant-stack-bench), [delegation-bench](https://github.com/simongonzalezdc/resonant-delegation-bench)) |
 | [resonant-context-notes](https://github.com/simongonzalezdc/resonant-context-notes) | Measured context-engineering notes for local-model agent builders — context diets, re-reads, token math — with every number's validity label intact. | [KyaniteLabs/context-kit](https://github.com/KyaniteLabs/context-kit) |
+| [resonant-context-kit](https://github.com/simongonzalezdc/resonant-context-kit) | The context-kit instrument as a ResonantOS local-service add-on — style steering, sandboxed munch reads, output dieting served from a hash-pinned vendor tree. Live-LLM batteries pinned not-runnable, never faked. | [KyaniteLabs/context-kit](https://github.com/KyaniteLabs/context-kit) |
 | [resonant-unstuck-coach](https://github.com/simongonzalezdc/resonant-unstuck-coach) | A deterministic coach router over the Unstuck Coach method — one reflection, one next move, one tiny check. A routing layer, not an LLM. | [simongonzalezdc/unstuck-coach](https://github.com/simongonzalezdc/unstuck-coach) |
 | [resonant-checkyourself](https://github.com/simongonzalezdc/resonant-checkyourself) | The CheckYourself production-readiness check for AI-built apps (read-only scan/score/backlog/validate) as a ResonantOS add-on. | [KyaniteLabs/checkyourself](https://github.com/KyaniteLabs/checkyourself) |
 | [resonant-tastecheck](https://github.com/simongonzalezdc/resonant-tastecheck) | The TasteCheck frontend craft and ship-gate skill pack (20 design-quality skills) served to agents over a local service. Runs no checks headless, fakes nothing. | [KyaniteLabs/tastecheck](https://github.com/KyaniteLabs/tastecheck) |
